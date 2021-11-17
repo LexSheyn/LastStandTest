@@ -1,0 +1,1 @@
+local a = MOUSE_BUTTON_TYPE_RIGHT

@@ -1,0 +1,31 @@
+0  - Stand 1 Default
+1  - Look around
+2  - Victory
+3  - Disarm and open helm for a second
+4  - Attack 1
+5  - Attack 2
+6  - Run
+7  - Defend
+8  - Walk Defended
+9  - Death
+10 - Laying down
+11 - Attack 1 Defended
+12 - Laying down Decayed
+13 - Stand 2
+14 - Shaking like he is talking
+15 - Sitting and washing his shield
+16 - Stand ???
+17 - Pointing forward with his sword ???
+18 - 3 Phase: Holding his sword close to the torso and then swinging it down like he is prepared to fight
+19 - 2 Phase: Holds his sword close to the torso and stay
+20 - 1 Phase: Keeps his sword close to the torso
+21 - Siting down
+22 - Moving a little like he is speaking
+23 - Moving his sword like he is talking about something
+24 - Disarm and open helm for a second ???
+25 - Defend but prepared to attack
+26 - Walk
+27 - Nothing
+28 - Nothing
+29 - Nothing
+...

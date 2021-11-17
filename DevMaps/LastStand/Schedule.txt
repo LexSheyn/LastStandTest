@@ -1,0 +1,2 @@
+Create Script on map initialization that will check key press events and set animation.
+Try to set facing angle also just for test.
